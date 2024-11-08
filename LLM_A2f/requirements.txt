@@ -1,0 +1,17 @@
+streamlit
+openai
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-openai
+pyowm
+google-search-results
+streamlit-audiorec
+python-dotenv
+langchain-groq
+langgraph
+langsmith
+wikipedia
+duckduckgo-search
+arxiv
