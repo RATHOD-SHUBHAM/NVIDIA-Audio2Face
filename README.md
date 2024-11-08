@@ -3,6 +3,9 @@
 # OmniAvatar
 Welcome to OmniAvatar, a project that brings lifelike virtual avatars to reality by seamlessly integrating Large Language Models (LLMs) with NVIDIA Omniverse’s Audio2Face technology. Imagine avatars that don’t just look real but engage in dynamic, real-time conversations, responding to emotions and context with authenticity and depth. OmniAvatar transforms static digital characters into vivid personalities, revolutionizing how virtual interactions feel and respond.
 
+## Demo
+[OMNIAVATAR](https://www.linkedin.com/posts/shubhamshankar_avatar-langchain-ai-activity-7256653777858908161-79-g?utm_source=share&utm_medium=member_desktop)
+
 ## Overview
 OmniAvatar leverages the power of LLMs and NVIDIA Omniverse Audio2Face to create avatars capable of real-time interaction and expression. NVIDIA Omniverse provides a solid foundation with its APIs, SDKs, and services, enabling developers to build advanced AI-driven systems with sophisticated simulation workflows. Through OmniAvatar, avatars can not only mimic human speech and expression but also respond intelligently and naturally, creating a more engaging and lifelike interaction experience.
 
@@ -52,5 +55,8 @@ instance_name = "/World/audio2face/PlayerStreaming"
 ```
 By default, instance_name is set to /World/audio2face/PlayerStreaming. To personalize the avatar setup, replace this path with the appropriate instance path for your specific configuration.
 
+---
+
+<img width="1415" alt="Screenshot 2024-10-25 at 9 22 10 PM" src="https://github.com/user-attachments/assets/0690fae4-6948-4f12-acc6-0cc479c9973b">
 
 
